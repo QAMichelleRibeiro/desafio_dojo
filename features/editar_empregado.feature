@@ -1,8 +1,8 @@
-#language: pt
+﻿#language: pt
 #utf-8
 
 @edicao
-Funcionalidade: Editar Empregado
+Funcionalidade: Editar Empregados
 Eu como usuário
 Quero acessar um site 
 Para editar um funcionario
